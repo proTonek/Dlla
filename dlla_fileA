@@ -12,3 +12,6 @@ Zmiana nr 5
 
 Zmiana nr 6
 git subtree add --prefix=Targrt-Folder http://....  KtóryBranch  --squash
+
+Zmiana w innym projekcie - tym razem w głównym
+
