@@ -15,3 +15,6 @@ git subtree add --prefix=Targrt-Folder http://....  KtóryBranch  --squash
 
 Zmiana w innym projekcie - tym razem w głównym
 
+Zmiana 7
+Kolejna zmiana poza oryginalnym repo
+
